@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?fileVersion 4.0.0?><cproject storage_type_id="org.eclipse.cdt.core.XmlProjectDescriptionStorage">
+	<storageModule moduleId="org.eclipse.cdt.core.settings">
+		<cconfiguration id="com.nvidia.cuda.toolchain.linux.configuration.debug.139984044">
+			<storageModule buildSystemId="org.eclipse.cdt.managedbuilder.core.configurationDataProvider" id="com.nvidia.cuda.toolchain.linux.configuration.debug.139984044" moduleId="org.eclipse.cdt.core.settings" name="Debug">
+				<externalSettings/>
+				<extensions>
+					<extension id="org.eclipse.cdt.core.ELF" point="org.eclipse.cdt.core.BinaryParser"/>
+					<extension id="com.nvidia.cuda.toolchain.nvccErrorParser" point="org.eclipse.cdt.core.ErrorParser"/>
+					<extension id="org.eclipse.cdt.core.GmakeErrorParser" point="org.eclipse.cdt.core.ErrorParser"/>
+					<extension id="org.eclipse.cdt.core.CWDLocator" point="org.eclipse.cdt.core.ErrorParser"/>
+					<extension id="org.eclipse.cdt.core.GCCErrorParser" point="org.eclipse.cdt.core.ErrorParser"/>
+				</extensions>
+			</storageModule>
+			<storageModule moduleId="cdtBuildSystem" version="4.0.0">
+				<configuration artifactName="${ProjName}" buildArtefactType="org.eclipse.cdt.build.core.buildArtefactType.exe" buildProperties="org.eclipse.cdt.build.core.buildArtefactType=org.eclipse.cdt.build.core.buildArtefactType.exe,org.eclipse.cdt.build.core.buildType=org.eclipse.cdt.build.core.buildType.debug" description="" id="com.nvidia.cuda.toolchain.linux.configuration.debug.139984044" name="Debug" parent="com.nvidia.cuda.toolchain.linux.configuration.debug">
+					<folderInfo id="com.nvidia.cuda.toolchain.linux.configuration.debug.139984044." name="/" resourcePath="">
+						<toolChain id="com.nvidia.cuda.toolchain.linux.debugToolchain.290521091" name="CUDA Linux toolchain" superClass="com.nvidia.cuda.toolchain.linux.debugToolchain">
+							<targetPlatform archList="all" binaryParser="org.eclipse.cdt.core.ELF" id="com.nvidia.cuda.toolchain.targetLinuxPlatform.514176982" isAbstract="false" osList="linux" superClass="com.nvidia.cuda.toolchain.targetLinuxPlatform"/>
+							<builder buildPath="${workspace_loc:/cudaMallocAndMemcpy}/Debug" id="com.nvidia.cuda.toolchain.builder.1607587038" managedBuildOn="true" name="CUDA Toolkit Builder.Debug" superClass="com.nvidia.cuda.toolchain.builder"/>
+							<tool id="nvcc.linker.1813774158" name="NVCC linker" superClass="nvcc.linker"/>
+							<tool id="nvcc.archiver.1985059730" name="NVCC archiver" superClass="nvcc.archiver"/>
+							<tool id="nvcc.compiler.694840931" name="NVCC Compiler" superClass="nvcc.compiler">
+								<option defaultValue="true" id="com.nvidia.cuda.toolchain.compiler.device-debug.1830760646" superClass="com.nvidia.cuda.toolchain.compiler.device-debug" valueType="boolean"/>
+								<option defaultValue="true" id="com.nvidia.cuda.toolchain.compiler.debug.2004345652" superClass="com.nvidia.cuda.toolchain.compiler.debug" valueType="boolean"/>
+								<option id="nvcc.compiler.pic.57461007" superClass="nvcc.compiler.pic"/>
+							</tool>
+						</toolChain>
+					</folderInfo>
+				</configuration>
+			</storageModule>
+			<storageModule moduleId="org.eclipse.cdt.core.externalSettings"/>
+		</cconfiguration>
+		<cconfiguration id="com.nvidia.cuda.toolchain.linux.configuration.release.1946256936">
+			<storageModule buildSystemId="org.eclipse.cdt.managedbuilder.core.configurationDataProvider" id="com.nvidia.cuda.toolchain.linux.configuration.release.1946256936" moduleId="org.eclipse.cdt.core.settings" name="Release">
+				<externalSettings/>
+				<extensions>
+					<extension id="org.eclipse.cdt.core.ELF" point="org.eclipse.cdt.core.BinaryParser"/>
+					<extension id="com.nvidia.cuda.toolchain.nvccErrorParser" point="org.eclipse.cdt.core.ErrorParser"/>
+					<extension id="org.eclipse.cdt.core.GmakeErrorParser" point="org.eclipse.cdt.core.ErrorParser"/>
+					<extension id="org.eclipse.cdt.core.CWDLocator" point="org.eclipse.cdt.core.ErrorParser"/>
+					<extension id="org.eclipse.cdt.core.GCCErrorParser" point="org.eclipse.cdt.core.ErrorParser"/>
+				</extensions>
+			</storageModule>
+			<storageModule moduleId="cdtBuildSystem" version="4.0.0">
+				<configuration artifactName="${ProjName}" buildArtefactType="org.eclipse.cdt.build.core.buildArtefactType.exe" buildProperties="org.eclipse.cdt.build.core.buildArtefactType=org.eclipse.cdt.build.core.buildArtefactType.exe,org.eclipse.cdt.build.core.buildType=org.eclipse.cdt.build.core.buildType.release" description="" id="com.nvidia.cuda.toolchain.linux.configuration.release.1946256936" name="Release" parent="com.nvidia.cuda.toolchain.linux.configuration.release">
+					<folderInfo id="com.nvidia.cuda.toolchain.linux.configuration.release.1946256936." name="/" resourcePath="">
+						<toolChain id="com.nvidia.cuda.toolchain.linux.releaseToolchain.2123742555" name="CUDA Linux toolchain" superClass="com.nvidia.cuda.toolchain.linux.releaseToolchain">
+							<targetPlatform archList="all" binaryParser="org.eclipse.cdt.core.ELF" id="com.nvidia.cuda.toolchain.targetLinuxPlatform.1084320837" isAbstract="false" osList="linux" superClass="com.nvidia.cuda.toolchain.targetLinuxPlatform"/>
+							<builder buildPath="${workspace_loc:/cudaMallocAndMemcpy}/Release" id="com.nvidia.cuda.toolchain.builder.483281712" managedBuildOn="true" name="CUDA Toolkit Builder.Release" superClass="com.nvidia.cuda.toolchain.builder"/>
+							<tool id="nvcc.linker.1411120316" name="NVCC linker" superClass="nvcc.linker"/>
+							<tool id="nvcc.archiver.1379221298" name="NVCC archiver" superClass="nvcc.archiver"/>
+							<tool id="nvcc.compiler.1079087489" name="NVCC Compiler" superClass="nvcc.compiler">
+								<option defaultValue="com.nvidia.cuda.toolchain.compiler.optimization.level3" id="com.nvidia.cuda.toolchain.compiler.optimization.1312914773" superClass="com.nvidia.cuda.toolchain.compiler.optimization" valueType="enumerated"/>
+								<option id="nvcc.compiler.pic.1271263501" superClass="nvcc.compiler.pic"/>
+							</tool>
+						</toolChain>
+					</folderInfo>
+				</configuration>
+			</storageModule>
+		</cconfiguration>
+	</storageModule>
+	<storageModule moduleId="cdtBuildSystem" version="4.0.0">
+		<project id="cudaMallocAndMemcpy.com.nvidia.cuda.toolchain.linux.build.exe.2012596432" name="Executable" projectType="com.nvidia.cuda.toolchain.linux.build.exe"/>
+	</storageModule>
+	<storageModule moduleId="scannerConfiguration">
+		<autodiscovery enabled="true" problemReportingEnabled="true" selectedProfileId=""/>
+	</storageModule>
+	<storageModule moduleId="org.eclipse.cdt.core.LanguageSettingsProviders"/>
+</cproject>

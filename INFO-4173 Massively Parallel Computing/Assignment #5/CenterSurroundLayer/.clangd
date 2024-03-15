@@ -1,0 +1,6 @@
+CompileFlags:
+    Add:
+      - --std=gnu++17
+      - -I/usr/include/python3.10/
+      - -I/graphics/opt/opt_Ubuntu22.04/python/3.10/opt-packages/local/lib/python3.10/dist-packages/torch/include
+      - -I/graphics/opt/opt_Ubuntu22.04/python/3.10/opt-packages/local/lib/python3.10/dist-packages/torch/include/torch/csrc/api/include

@@ -1,0 +1,14 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Nbody",
+            "type": "cuda-gdb",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "program": "${workspaceFolder}/build/NBody",
+            //"args": ""
+        }
+    ]
+    
+}
