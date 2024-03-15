@@ -15,3 +15,5 @@
 - [Assignment 5](https://github.com/KarahanS/Master-University-Projects/tree/main/MEDZ-4991%20Medical%20Data%20Science/Assignment%20%235) `Python`
 
 ### [ML-4102 Data Literacy](https://github.com/kargibora/DataLiteracy-Regional-Rhythms)
+
+### [INFO-4173 Massively Parallel Computing]()

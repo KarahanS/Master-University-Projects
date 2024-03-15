@@ -13,7 +13,14 @@ The main purpose of the lecture is to teach practical algorithm design for such 
     * Parallel linear equation solvers, parallel PDEs
     * Parallel complexity analysis and profiling
     * System integration and graphics processor clusters
-    
+
 This year the course is offered as a one-week block course.
+
+
+
+| Term          | Instructor   |
+| ------------- |:-------------:|
+| 2024 Summer     | Hendrik Lensch |   
+
 
 
