@@ -16,4 +16,10 @@
 
 ### [ML-4102 Data Literacy](https://github.com/kargibora/DataLiteracy-Regional-Rhythms)
 
-### [INFO-4173 Massively Parallel Computing]()
+### [INFO-4173 Massively Parallel Computing](https://github.com/KarahanS/Master-University-Projects/tree/main/INFO-4173%20Massively%20Parallel%20Computing)
+- [Assignment 1](https://github.com/KarahanS/Master-University-Projects/tree/main/INFO-4173%20Massively%20Parallel%20Computing/Assignment%20%231) `CUDA`
+- [Assignment 2](https://github.com/KarahanS/Master-University-Projects/tree/main/INFO-4173%20Massively%20Parallel%20Computing/Assignment%20%232) `CUDA`
+- [Assignment 3](https://github.com/KarahanS/Master-University-Projects/tree/main/INFO-4173%20Massively%20Parallel%20Computing/Assignment%20%233) `CUDA`
+- [Assignment 4](https://github.com/KarahanS/Master-University-Projects/tree/main/INFO-4173%20Massively%20Parallel%20Computing/Assignment%20%234) `CUDA`
+- [Assignment 5](https://github.com/KarahanS/Master-University-Projects/tree/main/INFO-4173%20Massively%20Parallel%20Computing/Assignment%20%235) `CUDA`
+- [Assignment 6](https://github.com/KarahanS/Master-University-Projects/tree/main/INFO-4173%20Massively%20Parallel%20Computing/Assignment%20%236) `CUDA`
