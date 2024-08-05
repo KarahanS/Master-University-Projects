@@ -23,3 +23,9 @@
 - [Assignment 4](https://github.com/KarahanS/Master-University-Projects/tree/main/Massively%20Parallel%20Computing/Assignment%20%234) `CUDA`
 - [Assignment 5](https://github.com/KarahanS/Master-University-Projects/tree/main/Massively%20Parallel%20Computing/Assignment%20%235) `CUDA`
 - [Assignment 6](https://github.com/KarahanS/Master-University-Projects/tree/main/Massively%20Parallel%20Computing/Assignment%20%236) `CUDA`
+
+### [Understanding LLMs](https://github.com/KarahanS/Master-University-Projects/tree/main/Understanding%20LLMs)
+- [Assignment 1](https://github.com/KarahanS/Master-University-Projects/tree/main/Understanding%20LLMs/Assignment%20%231) `Python`
+- [Assignment 2](https://github.com/KarahanS/Master-University-Projects/tree/main/Understanding%20LLMs/Assignment%20%232) `Python`
+- [Assignment 3](https://github.com/KarahanS/Master-University-Projects/tree/main/Understanding%20LLMs/Assignment%20%233) `Python`
+- [Assignment 4](https://github.com/KarahanS/Master-University-Projects/tree/main/Understanding%20LLMs/Assignment%20%234) `Python`
