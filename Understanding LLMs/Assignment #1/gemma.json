@@ -1,0 +1,32 @@
+{
+    "model_name": "Gemma-7B",
+    "huggingface_model_id": "google/gemma-7b",
+    "paper_url": "https://arxiv.org/pdf/2403.08295",
+    "tokenizer_type": "a subset of the SentencePiece tokenizer",
+    "vocabulary_size": "256128",
+    "architecture": "transformer",
+    "architecture_type": "decoder only",
+    "architecture_quirks": [
+        "Multi-Head Attention",
+        "RoPE Embeddings",
+        "GeGLU Activations",
+        "RMSNorm"
+    ],
+    "parameters": "7B",
+    "finetuning_type": [
+        "RLHF",
+        "SFT"
+    ],
+    "number_training_tokens": "6T",
+    "training_data": [
+        "English Web documents",
+        "Mathematics",
+        "Code"
+    ],
+    "finetuning_data": [
+        "Text-only, English-only synthetic, human-generated prompt-response pairs",
+        "Labelled English-only preference data"
+    ],
+    "access": "open",
+    "summary": "Gemma is a family of free and open-source LLMs that serve as a lightweight version of Gemini. It outperforms similarly sized open models on 11 out of 18 text-based tasks."
+}

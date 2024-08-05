@@ -1,4 +1,4 @@
-# INFO-4173 Massively Parallel Computing
+# Massively Parallel Computing
 
 
 Graphics processors contain thousands of parallel processing elements and thus enable us to explore this realm of massively parallel computing.
