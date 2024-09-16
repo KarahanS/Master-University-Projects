@@ -14,8 +14,6 @@
 - [Assignment 4](https://github.com/KarahanS/Master-University-Projects/tree/main/Medical%20Data%20Science/Assignment%20%234) `Python`
 - [Assignment 5](https://github.com/KarahanS/Master-University-Projects/tree/main/Medical%20Data%20Science/Assignment%20%235) `Python`
 
-### [Data Literacy](https://github.com/kargibora/DataLiteracy-Regional-Rhythms)
-
 ### [Massively Parallel Computing](https://github.com/KarahanS/Master-University-Projects/tree/main/Massively%20Parallel%20Computing)
 - [Assignment 1](https://github.com/KarahanS/Master-University-Projects/tree/main/Massively%20Parallel%20Computing/Assignment%20%231) `CUDA`
 - [Assignment 2](https://github.com/KarahanS/Master-University-Projects/tree/main/Massively%20Parallel%20Computing/Assignment%20%232) `CUDA`
@@ -29,3 +27,6 @@
 - [Assignment 2](https://github.com/KarahanS/Master-University-Projects/tree/main/Understanding%20LLMs/Assignment%20%232) `Python`
 - [Assignment 3](https://github.com/KarahanS/Master-University-Projects/tree/main/Understanding%20LLMs/Assignment%20%233) `Python`
 - [Assignment 4](https://github.com/KarahanS/Master-University-Projects/tree/main/Understanding%20LLMs/Assignment%20%234) `Python`
+
+### [Data Literacy](https://github.com/kargibora/DataLiteracy-Regional-Rhythms)
+### [Practical Course: Machine Learning in Graphics, Vision and Language](https://github.com/KarahanS/Self-Supervised-Learning-for-Medical-Image-Analysis)
