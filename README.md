@@ -44,4 +44,4 @@
 ### [Data Literacy](https://github.com/kargibora/DataLiteracy-Regional-Rhythms)
 ### [Practical Course: Machine Learning in Graphics, Vision and Language](https://github.com/KarahanS/Self-Supervised-Learning-for-Medical-Image-Analysis)
 ### [Reinforcement Learning](https://github.com/KarahanS/RL-Hockey)
-### [Research Project Machine Learning](https://github.com/Complexity-Project)
+### [Research Project Machine Learning](https://github.com/Complexity-Project/Complexity-in-Complexity)
